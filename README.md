@@ -2,4 +2,4 @@
 
 Rahill
 
-now editing on update-readme branch
+upadates made of github.com
